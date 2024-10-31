@@ -1994,3 +1994,5 @@
 | 1991 | Aman yadav           | [Aman yadav](https://www.linkedin.com/in/amnn/) |         [Certificate Link](https://api.badgr.io/public/assertions/TpFi-xGrQkupGzky2AxOrQ?identity__email=amn.yadav707%40gmail.com) | postman makes easy to work with apis. |
 | 1992 | Tushar Babasaheb Patil | [Tushar Babasaheb Patil](https://www.linkedin.com/in/tushar-patil-5315a42b1/) |         [Certificate Link](https://badgr.com/public/assertions/bRHmeM2MSWmNqKASmb0uNw) | GSSoC'24 Extented is really Great,Gained a lot of information. |
 | 1993 | Prem Pawar           | [Prem Pawar](https://www.linkedin.com/in/prem-pawar-b32124291/) |         [Certificate Link](https://api.badgr.io/public/assertions/iskkkiAwTvG5jgMpfAjBGA?identity__email=pawarprem5555%40gmail.com) | Thanks, Postman and GSSoC, for the opportunity to gain API skills with the Student Expert Certification! |
+| 1994 | Neha R | [Neha R](www.linkedin.com/in/nehxr) |         [Certificate Link](https://badgr.com/backpack/badges/6723acbfec6e58181770ddcc) | I learned a lot of things from the course and it was wonderful !Thank you soo much |
+
